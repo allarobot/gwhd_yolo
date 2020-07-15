@@ -1,0 +1,4 @@
+{   "lr0": {"_type": "choice", "_value": [0.001, 0.01,0.005]},
+    "hsv_h": {"_type": "uniform", "_value": [0.014, 0.1]},
+    "fl_gamma": {"_type": "choice", "_value": [0.0, 1.5]}
+}

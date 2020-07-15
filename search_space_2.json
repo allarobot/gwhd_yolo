@@ -1,0 +1,7 @@
+{   "lr0": {"_type": "choice", "_value": [0.001, 0.01,0.005]},
+    "hsv_h": {"_type": "uniform", "_value": [0.014, 0.1]},
+	"hsv_s": {"_type": "uniform", "_value": [0.68, 0.9]},
+	"hsv_v": {"_type": "uniform", "_value": [0.36, 0.5]},
+    "fl_gamma": {"_type": "choice", "_value": [0.0, 1.5]},
+	"scale": {"_type": "uniform", "_value": [0.5,1.0]}
+}
